@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 falkflsdj
 kyyaww
 safskdfjserie
 skdjfkasljf
 this is master
+=======
+test gitfile
+example
+1111
+>>>>>>> dcfe1637ecc6e7f66e6a5959d8208c4ef0d4256e

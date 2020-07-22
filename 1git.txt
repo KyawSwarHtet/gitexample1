@@ -1,3 +1,7 @@
 1 git file
 example 123
+<<<<<<< HEAD
 44444
+=======
+44444
+>>>>>>> dcfe1637ecc6e7f66e6a5959d8208c4ef0d4256e
